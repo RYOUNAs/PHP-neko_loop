@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+table {
+  text-align: center;
+  font-size: 30px;
+  border: solid #000 1px;
+  /* background-color: aqua; */
+}
+.color1 {
+  background-color: rgb(255, 229, 150);
+}
+.color2 {
+  background-color: rgb(245, 205, 255);
+}
